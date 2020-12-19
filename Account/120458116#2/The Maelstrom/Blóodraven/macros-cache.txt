@@ -1,0 +1,24 @@
+VER 3 0100000000000002 "Burst" "SPELL_FIRE_SEALOFFIRE"
+#showtooltip
+/use Combustion
+/use 13
+/use 14
+END
+VER 3 0100000000000001 "Ice block" "SPELL_FROST_FROST"
+#showtooltip
+/stopcasting
+/cancelaura Ice Block
+/cast Ice Block
+END
+VER 3 0100000000000003 "r" "135838"
+#showtooltip
+/use Icy Veins
+/use 13
+/use 14
+END
+VER 3 0100000000000004 "VuhDoDCShieldData" "Ability_Repair"
+R1ET1MR1PM1OM1NT[x]2EM2HM2IR2PM3HR3MR3RM3MR4NM4MR4PM4HR4SR5PM5OM5DH5IR5MR6IH6IH6SH6ET6DH7SM7DR7NT7SR8DR8PH8HR8HM8OT[x][x]2MR[x][x][x][x][x][x]0__0__[x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__[x][x][x][x][x]
+END
+VER 3 0100000000000005 "VuhDoDCShieldNames" "Ability_Repair"
+NYahÐelHybKhiRex[x]DevTheSyyAelTreAvaKooMòrMarMagTepManVåtXbiRulFlaShaErcCriWinAweBooBruShâJacDewMagТраLolKarРокVer[x][x]Bló[x][x][x][x][x][x]MudWol[x][x]Bae[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Cer[x][x][x][x][x]
+END

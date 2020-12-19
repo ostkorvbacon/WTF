@@ -1,0 +1,149 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Blóodraven - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["TutorialTracker"] = 2,
+			["is_BFA_version"] = true,
+			["quests_tracked"] = {
+				["Player-1596-09A6A455"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-1596-09A6A455"] = {
+					[59617] = {
+						["expireAt"] = 1607894672,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[60855] = {
+						["expireAt"] = 1607877465,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 464030,
+					},
+					[62258] = {
+						["expireAt"] = 1607894732,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[59717] = {
+						["expireAt"] = 1607877452,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[59718] = {
+						["expireAt"] = 1607877392,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[61946] = {
+						["expireAt"] = 1607929245,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 133675,
+					},
+					[61189] = {
+						["expireAt"] = 1607877392,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[60837] = {
+						["expireAt"] = 1607946585,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 134223,
+					},
+					[61543] = {
+						["expireAt"] = 1607929245,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 3502461,
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-1596-09A6A455"] = {
+					["class"] = "MAGE",
+					["name"] = "Blóodraven",
+					["realm"] = "The Maelstrom",
+				},
+			},
+			["history"] = {
+				["period"] = {
+					["global"] = {
+						["201204"] = {
+							["quest"] = 1,
+						},
+						["201205"] = {
+							["quest"] = 3,
+							["resource"] = 175,
+						},
+						["201212"] = {
+							["quest"] = 1,
+						},
+						["201206"] = {
+							["quest"] = 1,
+						},
+					},
+					["character"] = {
+						["Player-1596-09A6A455"] = {
+							["201204"] = {
+								["quest"] = 1,
+							},
+							["201205"] = {
+								["quest"] = 3,
+								["resource"] = 175,
+							},
+							["201212"] = {
+								["quest"] = 1,
+							},
+							["201206"] = {
+								["quest"] = 1,
+							},
+						},
+					},
+				},
+				["quest"] = {
+					["global"] = {
+						["total"] = 6,
+						[59804] = 1,
+						[60653] = 1,
+						[60739] = 1,
+						[58144] = 1,
+						[60534] = 1,
+						[59808] = 1,
+					},
+					["character"] = {
+						["Player-1596-09A6A455"] = {
+							["total"] = 6,
+							[59804] = 1,
+							[60653] = 1,
+							[60739] = 1,
+							[58144] = 1,
+							[60534] = 1,
+							[59808] = 1,
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["resource"] = 175,
+					},
+					["character"] = {
+						["Player-1596-09A6A455"] = {
+							["resource"] = 175,
+						},
+					},
+				},
+			},
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-1596-09A6A455"] = {
+					},
+				},
+				["name_cache"] = {
+					["Feasel le voleur de muffins"] = 126864,
+				},
+			},
+		},
+	},
+}

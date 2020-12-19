@@ -1,0 +1,58 @@
+VER 3 000000000000000C "6" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] Holy Radiance
+END
+VER 3 0000000000000003 "dance" "INV_MISC_QUESTIONMARK"
+/tar Muerta
+/cast Judgment
+END
+VER 3 000000000000000E "Dmg/Heal" "SPELL_HOLY_GREATERHEAL"
+#showtooltip
+/cast [harm] smite; Heal
+END
+VER 3 0000000000000006 "fffffocus " "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/cast [target=focus] Fist of Justice
+END
+VER 3 0000000000000004 "focus " "INV_MISC_NOTE_05"
+/focus
+END
+VER 3 0000000000000007 "focus 1" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] Holy Shock
+END
+VER 3 0000000000000008 "focus 2" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] Eternal Flame
+END
+VER 3 0000000000000009 "focus 3" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] Divine Light
+END
+VER 3 000000000000000A "focus 4" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] Holy Light
+END
+VER 3 000000000000000B "focus 5" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] Flash of Light
+END
+VER 3 0000000000000005 "focus cast" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/cast [target=focus] Repentance
+END
+VER 3 0000000000000002 "go" "INV_CHEST_CLOTH_23"
+/yell VOODOO DOLL KARATAS!!!! AHHHHHH!
+END
+VER 3 0000000000000001 "goulheal" "Ability_Creature_Cursed_01"
+/bow
+END
+VER 3 000000000000000D "guild" "INV_MISC_NOTE_05"
+Ilvl 484 frost dk and an ilvl 481 Holy pally Are looking for a raiding guild! The DK don't have all that much progression, but know most of the tactics and am more than willing to learn, the pally has killed almost all the bosses in t14 (14/16)
+END
+VER 3 0000000000000011 "kiss" "134153"
+/kiss
+END
+VER 3 0000000000000010 "Lick" "136187"
+/lick
+END
+VER 3 000000000000000F "obliteratew" "SPELL_SHADOW_FINGEROFDEATH"
+/run for bag=0,4,1 do for slot=1,GetContainerNumSlots(bag),1 do local name=GetContainerItemLink(bag,slot) if name and string.find(name,"Ancient Healing Potion") then UseContainerItem(bag,slot) end end end
+END
+VER 3 0000000000000012 "run" "Ability_Kick."
+/run if not MovePadFrame then UIParentLoadAddOn"Blizzard_MovePad"MovePadFrame:Hide()end
+/click MovePadForward
+/run if IsMouselooking() then MouselookStop() else MouselookStart() end
+END
