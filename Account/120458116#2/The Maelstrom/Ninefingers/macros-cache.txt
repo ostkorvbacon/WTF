@@ -1,0 +1,33 @@
+VER 3 0100000000000005 "3" "2065633"
+#showtooltip Warbreaker
+/use Warbreaker
+/use Blood Fury
+/use Berserking
+/use 13
+/use 14
+END
+VER 3 0100000000000002 "Aoe" "236303"
+#showtooltip
+/cast [talent:6/2] Dragon Roar; [talent:6/3] Bladestorm;
+END
+VER 3 0100000000000003 "Burst" "458972"
+#showtooltip Recklessness
+/use Recklessness
+/use Blood Fury
+/use Berserking
+/use 13
+/use 14
+END
+VER 3 0100000000000006 "Charge" "INV_MISC_QUESTIONMARK"
+#showtooltip Charge
+/cast Charge
+/cancelaura Bladestorm
+END
+VER 3 0100000000000001 "e" "236171"
+#showtooltip Heroic Leap
+/cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000004 "q" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/3] Furious Slash; Whirlwind
+END

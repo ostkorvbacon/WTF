@@ -1,0 +1,9 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "eu-Blóodraven-the-maelstrom"
+RaiderIO_MissingCharacters = {
+	["eu-Ierah-the-maelstrom"] = true,
+	["eu-Yzabel-ghostlands"] = true,
+}
+RaiderIO_CachedRuns = nil

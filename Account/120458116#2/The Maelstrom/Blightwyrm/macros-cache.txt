@@ -1,0 +1,88 @@
+VER 3 0100000000000013 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip Penance
+/cast [target=mouseover,help,nodead][]Penance
+END
+VER 3 0100000000000006 "3" "SPELL_SHADOW_UNHOLYFRENZY"
+#showtooltip mind blast
+/cancelaura dispersion
+/cast [mod:alt, @player] flash heal
+/castsequence [harm]  reset=target/18 mind blast
+/stopmacro [harm]
+/cast [help] [target=targettarget, help, exists] flash heal
+END
+VER 3 0100000000000014 "4" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Radiance
+/cast [target=mouseover,help,nodead][]Power Word: Radiance
+END
+VER 3 0100000000000015 "5" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,help,nodead][]Shadow Mend
+END
+VER 3 0100000000000001 "burst" "SPELL_SHADOW_SHADOWFIEND"
+#showtooltip
+/use Shadowfiend
+/use Mindbender
+/use Power Infusion
+/use 13
+/use 14
+END
+VER 3 0100000000000011 "Channeling" "SPELL_SHADOW_MINDSHEAR"
+#showtooltip Mind Sear
+/cleartarget [dead][noharm]
+/targetenemy [noexists]
+/cast [nochanneling] Mind Sear
+END
+VER 3 0100000000000005 "def" "SPELL_SHADOW_DISPERSION"
+#showtooltip Dispersion
+/stopcasting
+/cast Dispersion
+/cancelaura Dispersion
+END
+VER 3 010000000000000A "defensive" "INV_MISC_QUESTIONMARK"
+#showtooltip Fade
+/cast Fade
+/use Healthstone
+/use Pain Suppression
+END
+VER 3 010000000000000C "Dmg/Heal 2" "SPELL_HOLY_FLASHHEAL"
+#showtooltip
+/cast [harm] Holy Fire; Flash Heal
+END
+VER 3 010000000000000D "Dmg/Heal 3" "SPELL_HOLY_PERSUITOFJUSTICE"
+#showtooltip
+/cast [harm] Holy Word: Chastise; Holy Word: Serenity
+END
+VER 3 010000000000000E "Dmg/Heal 4" "SPELL_HOLY_HOLYSMITE"
+#showtooltip
+/cast [harm] Smite; Shadow Mend
+END
+VER 3 0100000000000010 "Dmg/Heal Shadow" "SPELL_PRIEST_MINDSPIKE"
+#showtooltip
+/cast [harm] Mind Spike; Shadow Mend
+END
+VER 3 0100000000000007 "E" "SPELL_SHADOW_DEMONICFORTITUDE"
+#showtooltip Shadow Word: Death
+/cast [mod:alt, @player] flash heal
+/castsequence [harm] shadow word: Death
+/stopmacro [harm]
+/cast [help] [target=targettarget, help, exists] Flash Heal
+END
+VER 3 0100000000000009 "leap" "INV_MISC_QUESTIONMARK"
+/target potetto
+/cast leap of faith
+/targetlasttarget
+END
+VER 3 0100000000000012 "r" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield
+/cast [target=mouseover,help,nodead][]Power Word: Shield
+END
+VER 3 0100000000000008 "silence" "ABILITY_PRIEST_SILENCE"
+#showtooltip Silence
+/cast [mod:alt, @focus] Silence; Silence
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
