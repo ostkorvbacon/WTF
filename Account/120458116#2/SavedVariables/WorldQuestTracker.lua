@@ -93,65 +93,10 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-1596-09A6A455"] = {
-					[61631] = {
-						["expireAt"] = 1608326749,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61948] = {
-						["expireAt"] = 1608274849,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
-					[61791] = {
-						["expireAt"] = 1608274884,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045108,
-					},
-					[61967] = {
-						["expireAt"] = 1608274884,
-						["rewardAmount"] = 70,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[60911] = {
-						["expireAt"] = 1608292164,
-						["rewardAmount"] = 70,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61870] = {
-						["expireAt"] = 1608274855,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
-					[62258] = {
-						["expireAt"] = 1608257604,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61879] = {
-						["expireAt"] = 1608274894,
-						["rewardAmount"] = "20",
-						["rewardTexture"] = 133675,
-					},
-					[58437] = {
-						["expireAt"] = 1608257575,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[57328] = {
-						["expireAt"] = 1608309394,
-						["rewardAmount"] = 0,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[60533] = {
-						["expireAt"] = 1608447709,
-						["rewardAmount"] = 0,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[60609] = {
-						["expireAt"] = 1608274909,
-						["rewardAmount"] = 250,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					[60899] = {
+						["expireAt"] = 1608741447,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 656441,
 					},
 				},
 				["Player-1596-0AB95DBB"] = {
@@ -183,23 +128,24 @@ WQTrackerDB = {
 				["quest"] = {
 					["global"] = {
 						[59848] = 1,
-						[60531] = 1,
+						[60531] = 2,
 						[60532] = 1,
 						[61060] = 1,
 						[60565] = 2,
 						[59234] = 1,
 						[60476] = 1,
+						[60842] = 1,
 						[59643] = 1,
 						[61689] = 1,
 						[61815] = 1,
 						[61816] = 1,
-						["total"] = 26,
+						["total"] = 28,
 						[59617] = 1,
 						[60858] = 1,
-						[60655] = 1,
 						[58605] = 1,
-						[58505] = 1,
 						[60929] = 1,
+						[58505] = 1,
+						[60655] = 1,
 						[61540] = 1,
 						[57465] = 1,
 						[61667] = 1,
@@ -212,23 +158,24 @@ WQTrackerDB = {
 					["character"] = {
 						["Player-1596-09A6A455"] = {
 							[59848] = 1,
-							[60531] = 1,
+							[60531] = 2,
 							[60532] = 1,
 							[61060] = 1,
 							[60565] = 2,
 							[59234] = 1,
 							[60476] = 1,
+							[60842] = 1,
 							[59643] = 1,
 							[61689] = 1,
 							[61815] = 1,
 							[61816] = 1,
-							["total"] = 26,
+							["total"] = 28,
 							[59617] = 1,
 							[60858] = 1,
-							[60655] = 1,
 							[58605] = 1,
-							[58505] = 1,
 							[60929] = 1,
+							[58505] = 1,
+							[60655] = 1,
 							[61540] = 1,
 							[57465] = 1,
 							[61667] = 1,
@@ -242,12 +189,32 @@ WQTrackerDB = {
 				},
 				["period"] = {
 					["global"] = {
+						["201216"] = {
+							["quest"] = 1,
+						},
+						["201202"] = {
+							["quest"] = 3,
+							["resource"] = 175,
+						},
+						["201221"] = {
+							["quest"] = 2,
+							["artifact"] = 70,
+						},
+						["201214"] = {
+							["quest"] = 1,
+						},
+						["201210"] = {
+							["quest"] = 4,
+							["resource"] = 175,
+							["gold"] = 2809300,
+						},
+						["201207"] = {
+							["quest"] = 7,
+							["resource"] = 175,
+						},
 						["201208"] = {
 							["quest"] = 2,
 							["resource"] = 175,
-						},
-						["201216"] = {
-							["quest"] = 1,
 						},
 						["201203"] = {
 							["quest"] = 4,
@@ -256,31 +223,35 @@ WQTrackerDB = {
 						["201209"] = {
 							["quest"] = 4,
 						},
-						["201207"] = {
-							["quest"] = 7,
-							["resource"] = 175,
-						},
-						["201210"] = {
-							["quest"] = 4,
-							["resource"] = 175,
-							["gold"] = 2809300,
-						},
-						["201214"] = {
-							["quest"] = 1,
-						},
-						["201202"] = {
-							["quest"] = 3,
-							["resource"] = 175,
-						},
 					},
 					["character"] = {
 						["Player-1596-09A6A455"] = {
+							["201216"] = {
+								["quest"] = 1,
+							},
+							["201202"] = {
+								["quest"] = 3,
+								["resource"] = 175,
+							},
+							["201221"] = {
+								["quest"] = 2,
+								["artifact"] = 70,
+							},
+							["201214"] = {
+								["quest"] = 1,
+							},
+							["201210"] = {
+								["quest"] = 4,
+								["resource"] = 175,
+								["gold"] = 2809300,
+							},
+							["201207"] = {
+								["quest"] = 7,
+								["resource"] = 175,
+							},
 							["201208"] = {
 								["quest"] = 2,
 								["resource"] = 175,
-							},
-							["201216"] = {
-								["quest"] = 1,
 							},
 							["201203"] = {
 								["quest"] = 4,
@@ -289,34 +260,18 @@ WQTrackerDB = {
 							["201209"] = {
 								["quest"] = 4,
 							},
-							["201207"] = {
-								["quest"] = 7,
-								["resource"] = 175,
-							},
-							["201210"] = {
-								["quest"] = 4,
-								["resource"] = 175,
-								["gold"] = 2809300,
-							},
-							["201214"] = {
-								["quest"] = 1,
-							},
-							["201202"] = {
-								["quest"] = 3,
-								["resource"] = 175,
-							},
 						},
 					},
 				},
 				["reward"] = {
 					["global"] = {
-						["artifact"] = 70,
+						["artifact"] = 140,
 						["resource"] = 700,
 						["gold"] = 2809300,
 					},
 					["character"] = {
 						["Player-1596-09A6A455"] = {
-							["artifact"] = 70,
+							["artifact"] = 140,
 							["resource"] = 700,
 							["gold"] = 2809300,
 						},

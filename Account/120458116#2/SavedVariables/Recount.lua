@@ -9,9 +9,9 @@ RecountDB = {
 		["Blóodraven - The Maelstrom"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -255.4999389648438,
+					["y"] = -255.4996643066406,
 					["x"] = 502.9998779296875,
-					["w"] = 236.0000610351563,
+					["w"] = 235.9999237060547,
 					["h"] = 153.0000152587891,
 				},
 			},
@@ -25,8 +25,8 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Mists of Tirna Scithe",
-			["CurDataSet"] = "CurrentFightData",
+			["LastInstanceName"] = "9.0 - Ardenweald - Garden - Queen's Conservatory",
+			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 235.9999847412109,
 			["MainWindowHeight"] = 152.9999542236328,
 		},

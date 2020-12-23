@@ -109,7 +109,7 @@ BeanCounterDBSettings = {
 			["faction"] = "unknown",
 			["tasks.compactDB"] = 1607036927,
 			["wealth"] = 0,
-			["tasks.prunePostedDB"] = 1607036927,
+			["tasks.prunePostedDB"] = 1608906948,
 			["mailbox"] = {
 			},
 		},

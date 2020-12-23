@@ -9,8 +9,8 @@ RecountDB = {
 		["Blóodraven - The Maelstrom"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -277.4998168945313,
-					["x"] = 636.0001220703125,
+					["y"] = -255.4997253417969,
+					["x"] = 502.9998779296875,
 					["w"] = 235.9999237060547,
 					["h"] = 153.0000152587891,
 				},
@@ -26,7 +26,7 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Halls of Atonement",
+			["LastInstanceName"] = "9.0 - Ardenweald - Garden - Queen's Conservatory",
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 235.9999847412109,
 		},

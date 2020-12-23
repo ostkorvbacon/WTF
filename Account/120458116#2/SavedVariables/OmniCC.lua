@@ -6,7 +6,7 @@ OmniCCDB = {
 		["Ninefingers - The Maelstrom"] = "Default",
 	},
 	["global"] = {
-		["addonVersion"] = "9.0.4",
+		["addonVersion"] = "9.0.5",
 		["dbVersion"] = 5,
 	},
 	["profiles"] = {
