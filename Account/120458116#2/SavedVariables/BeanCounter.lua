@@ -1,6 +1,32 @@
 
 BeanCounterDB = {
 	["The Maelstrom"] = {
+		["Bloodynine"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
 		["Blightwyrm"] = {
 			["vendorsell"] = {
 			},
@@ -79,10 +105,46 @@ BeanCounterDB = {
 			["failedBids"] = {
 			},
 		},
+		["Harding"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
 	},
 }
 BeanCounterDBSettings = {
 	["The Maelstrom"] = {
+		["Bloodynine"] = {
+			["tasks.sortArray"] = 1609406664,
+			["version"] = 3.04,
+			["faction"] = "unknown",
+			["tasks.compactDB"] = 1609406664,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1609406664,
+			["mailbox"] = {
+			},
+		},
 		["Blightwyrm"] = {
 			["tasks.sortArray"] = 1608376742,
 			["version"] = 3.04,
@@ -99,7 +161,7 @@ BeanCounterDBSettings = {
 			["faction"] = "unknown",
 			["tasks.compactDB"] = 1607829943,
 			["wealth"] = 0,
-			["tasks.prunePostedDB"] = 1607829943,
+			["tasks.prunePostedDB"] = 1609555431,
 			["mailbox"] = {
 			},
 		},
@@ -110,6 +172,16 @@ BeanCounterDBSettings = {
 			["tasks.compactDB"] = 1607036927,
 			["wealth"] = 0,
 			["tasks.prunePostedDB"] = 1608906948,
+			["mailbox"] = {
+			},
+		},
+		["Harding"] = {
+			["tasks.sortArray"] = 1609492186,
+			["version"] = 3.04,
+			["faction"] = "unknown",
+			["tasks.compactDB"] = 1609492186,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1609492186,
 			["mailbox"] = {
 			},
 		},

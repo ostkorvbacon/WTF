@@ -2,7 +2,6 @@ VER 3 0100000000000002 "Burst" "SPELL_FIRE_SEALOFFIRE"
 #showtooltip
 /use Combustion
 /use 13
-/use 14
 END
 VER 3 0100000000000001 "Ice block" "SPELL_FROST_FROST"
 #showtooltip

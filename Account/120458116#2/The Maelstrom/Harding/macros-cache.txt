@@ -1,0 +1,56 @@
+VER 3 010000000000000A "1" "INV_MISC_QUESTIONMARK"
+#showtooltip aimed shot
+/cast [nochanneling:rapid fire] aimed shot
+/petattack
+END
+VER 3 010000000000000B "2" "INV_MISC_QUESTIONMARK"
+#showtooltip steady shot
+/cast [nochanneling:rapid fire] steady shot
+END
+VER 3 0100000000000009 "4" "INV_MISC_QUESTIONMARK"
+#showtooltip arcane shot
+/cast [nochanneling:rapid fire] arcane shot
+END
+VER 3 0100000000000005 "aoe" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Spirits
+/use [@cursor]Wild Spirits
+END
+VER 3 0100000000000004 "def" "461117"
+#showtooltip Exhilaration
+/use Survival of the Fittest(Lone Wolf Ability)
+/use Exhilaration
+END
+VER 3 010000000000000C "e" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,harm][]Kill Shot
+/use [@pettarget]Claw
+/use [@pettarget]Bite
+/use [@pettarget]Smack
+END
+VER 3 0100000000000003 "miss" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+/use [@mouseover,help,nodead][@focus,help,nodead]Misdirection
+END
+VER 3 0100000000000007 "q" "INV_MISC_QUESTIONMARK"
+#showtooltip Multi-Shot
+/use Multi-Shot
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+END
+VER 3 0100000000000006 "r" "INV_MISC_QUESTIONMARK"
+#showtooltip Trueshot
+/use Trueshot
+/use 13
+/use 14
+/use Berserking(Racial)
+END
+VER 3 0100000000000008 "v" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting [nochanneling: rapid fire]
+/cast disengage
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Har[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

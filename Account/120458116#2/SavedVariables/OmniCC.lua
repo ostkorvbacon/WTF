@@ -3,6 +3,8 @@ OmniCCDB = {
 	["profileKeys"] = {
 		["Blóodraven - The Maelstrom"] = "Default",
 		["Blightwyrm - The Maelstrom"] = "Default",
+		["Harding - The Maelstrom"] = "Default",
+		["Bloodynine - The Maelstrom"] = "Default",
 		["Ninefingers - The Maelstrom"] = "Default",
 	},
 	["global"] = {

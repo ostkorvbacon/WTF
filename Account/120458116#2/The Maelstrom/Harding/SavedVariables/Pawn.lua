@@ -1,0 +1,94 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0409,
+	["LastPlayerFullName"] = "Harding-The Maelstrom",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 178692,
+			["Level"] = 104,
+			["Link"] = "|cff0070dd|Hitem:178692::::::::53:254::17:4:7217:6771:6652:7193:2:28:747:9:52:::|h[Soulthorn Visage]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 175736,
+			["Level"] = 110,
+			["Link"] = "|cff0070dd|Hitem:175736::::::::53:254:::1:6706:2:28:1707:9:53:::|h[Hopebreaker Pendant]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 178821,
+			["Level"] = 104,
+			["Link"] = "|cff0070dd|Hitem:178821::::::::52:254::17:3:7217:6771:6652:2:28:747:9:52:::|h[Mantle of Ephemeral Visages]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 178815,
+			["Level"] = 122,
+			["Link"] = "|cff0070dd|Hitem:178815::::::::55:254::17:3:7217:6771:6652:2:28:747:9:55:::|h[Soaring Decimator's Hauberk]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 175505,
+			["Level"] = 108,
+			["Link"] = "|cff1eff00|Hitem:175505::::::::54:254::11:1:6707:2:28:1707:9:54:::|h[Soul Hunter's Cinch]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 177784,
+			["Level"] = 93,
+			["Link"] = "|cff1eff00|Hitem:177784::::::::55:254:::3:6907:6652:1684:2:28:1707:9:54:::|h[Savage Bonemauler Leggings of the Peerless]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 172243,
+			["Level"] = 100,
+			["Link"] = "|cff1eff00|Hitem:172243::::::::52:254::13:1:6883:2:29:36:30:40:::|h[Desolate Scale Treads]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 178703,
+			["Level"] = 110,
+			["Link"] = "|cff0070dd|Hitem:178703::::::::53:254::17:4:7217:6771:6652:7193:2:28:747:9:53:::|h[Hiveswarm Bracers]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 181190,
+			["Level"] = 90,
+			["Link"] = "|cff0070dd|Hitem:181190::::::::51:254::53:2:7192:6652:2:28:807:9:51:::|h[Dredger Tossers]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 175716,
+			["Level"] = 108,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff1eff00|Hitem:175716::::::::55:254::11:1:6707:2:28:1707:9:54:::|h[Emberscorched Band]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 175716,
+			["Level"] = 108,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff1eff00|Hitem:175716::::::::55:254::11:1:6707:2:9:54:28:1707:::|h[Emberscorched Band]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 177657,
+			["Level"] = 116,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff0070dd|Hitem:177657::::::::55:254::11:1:6706:2:28:1707:9:54:::|h[Overflowing Ember Mirror]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 181334,
+			["Level"] = 102,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff0070dd|Hitem:181334::::::::54:254::53:2:7192:6652:2:28:807:9:53:::|h[Essence Extractor]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 175766,
+			["Level"] = 90,
+			["Link"] = "|cff1eff00|Hitem:175766::::::::51:254::11:1:6707:2:28:1707:9:51:::|h[Ilka's Hunting Cloak]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 181210,
+			["Level"] = 108,
+			["Link"] = "|cff0070dd|Hitem:181210::::::::55:254::53:2:7192:6652:2:28:807:9:54:::|h[Dredhollow Boomstick]|h|r",
+		}, -- [16]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "HUNTER",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

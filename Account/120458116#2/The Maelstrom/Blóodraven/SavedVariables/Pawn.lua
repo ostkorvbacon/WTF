@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0408,
+	["LastVersion"] = 2.0409,
 	["LastPlayerFullName"] = "Blóodraven-The Maelstrom",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cffff8000|Hitem:173245::::::::60:63::64:6:6931:6717:7194:6649:6648:1507::::|h[Incanter's Circlet]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 175922,
-			["Level"] = 200,
-			["Link"] = "|cffa335ee|Hitem:175922::::::::60:63::14:4:6617:7193:1472:6646:1:28:807:::|h[Sinful Gladiator's Necklace]|h|r",
+			["ID"] = 178707,
+			["Level"] = 216,
+			["Link"] = "|cffa335ee|Hitem:178707::::::::60:63::35:6:7208:6652:7193:1501:5874:6646::::|h[Trailspinner Pendant]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 178696,
@@ -21,9 +21,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 181399,
-			["Level"] = 164,
-			["Link"] = "|cff0070dd|Hitem:181399::::::::60:63::27:4:6652:1472:5861:6616:1:28:2060:::|h[Faemoss Vestment]|h|r",
+			["ID"] = 175889,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:175889::::::::60:63::14:3:6630:1472:6646:1:28:807:::|h[Sinful Gladiator's Silk Robe]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 178804,
@@ -57,10 +57,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178870::::::::60:63::35:6:7205:6652:7194:1501:5868:6646::::|h[Ritual Bone Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 178926,
-			["Level"] = 190,
+			["ID"] = 178870,
+			["Level"] = 210,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffff8000|Hitem:178926:6166:::::::60:63::63:6:6932:6716:7193:6648:6649:1487::::|h[Firestorm]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178870:6166:::::::60:63::35:6:7205:6652:7194:1501:5868:6646::::|h[Ritual Bone Band]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 179350,
@@ -75,9 +75,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179350::::::::60:64::35:5:7206:6652:1501:5871:6646::::|h[Inscrutable Quantum Device]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 184758,
-			["Level"] = 171,
-			["Link"] = "|cff0070dd|Hitem:184758::::::::60:63::11::1:28:1707:::|h[Drape of Inscrutable Purpose]|h|r",
+			["ID"] = 183034,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183034::::::::60:63::3:4:7189:6652:1472:6646:1:28:751:::|h[Cowled Batwing Cloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 178714,

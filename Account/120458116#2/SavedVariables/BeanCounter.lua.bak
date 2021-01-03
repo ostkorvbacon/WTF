@@ -1,6 +1,32 @@
 
 BeanCounterDB = {
 	["The Maelstrom"] = {
+		["Bloodynine"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
 		["Blightwyrm"] = {
 			["vendorsell"] = {
 			},
@@ -27,7 +53,7 @@ BeanCounterDB = {
 			["failedBids"] = {
 			},
 		},
-		["Ninefingers"] = {
+		["Blóodraven"] = {
 			["vendorsell"] = {
 			},
 			["postedBids"] = {
@@ -53,7 +79,33 @@ BeanCounterDB = {
 			["completedBidsBuyouts"] = {
 			},
 		},
-		["Blóodraven"] = {
+		["Harding"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+		["Ninefingers"] = {
 			["vendorsell"] = {
 			},
 			["postedBids"] = {
@@ -83,6 +135,16 @@ BeanCounterDB = {
 }
 BeanCounterDBSettings = {
 	["The Maelstrom"] = {
+		["Bloodynine"] = {
+			["tasks.sortArray"] = 1609406664,
+			["version"] = 3.04,
+			["faction"] = "unknown",
+			["tasks.compactDB"] = 1609406664,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1609406664,
+			["mailbox"] = {
+			},
+		},
 		["Blightwyrm"] = {
 			["tasks.sortArray"] = 1608376742,
 			["version"] = 3.04,
@@ -93,16 +155,6 @@ BeanCounterDBSettings = {
 			["mailbox"] = {
 			},
 		},
-		["Ninefingers"] = {
-			["tasks.sortArray"] = 1607829943,
-			["version"] = 3.04,
-			["faction"] = "unknown",
-			["tasks.compactDB"] = 1607829943,
-			["wealth"] = 0,
-			["tasks.prunePostedDB"] = 1607829943,
-			["mailbox"] = {
-			},
-		},
 		["Blóodraven"] = {
 			["tasks.sortArray"] = 1607036927,
 			["version"] = 3.04,
@@ -110,6 +162,26 @@ BeanCounterDBSettings = {
 			["tasks.compactDB"] = 1607036927,
 			["wealth"] = 0,
 			["tasks.prunePostedDB"] = 1608906948,
+			["mailbox"] = {
+			},
+		},
+		["Harding"] = {
+			["tasks.sortArray"] = 1609492186,
+			["version"] = 3.04,
+			["faction"] = "unknown",
+			["tasks.compactDB"] = 1609492186,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1609492186,
+			["mailbox"] = {
+			},
+		},
+		["Ninefingers"] = {
+			["tasks.sortArray"] = 1607829943,
+			["version"] = 3.04,
+			["faction"] = "unknown",
+			["tasks.compactDB"] = 1607829943,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1609555431,
 			["mailbox"] = {
 			},
 		},

@@ -1,11 +1,4 @@
 Version: 1
-Frame: Recount_MainWindow
-FrameLevel: 40
-Anchor: BOTTOMRIGHT
-X: -339
-Y: 208
-W: 236
-H: 153
 Frame: DcrMUFsContainer
 FrameLevel: 1
 Anchor: CENTER
@@ -13,3 +6,10 @@ X: -430
 Y: -118
 W: 20
 H: 20
+Frame: Recount_MainWindow
+FrameLevel: 50
+Anchor: BOTTOMRIGHT
+X: -339
+Y: 208
+W: 236
+H: 153

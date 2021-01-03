@@ -1,8 +1,21 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Blóodraven-the-maelstrom"
+RaiderIO_LastCharacter = "eu-Harding-the-maelstrom"
 RaiderIO_MissingCharacters = {
-	["eu-Ilêria-the-maelstrom"] = true,
+	["eu-Scrotey-the-maelstrom"] = true,
+	["eu-Leolulu-lightnings-blade"] = true,
+	["eu-Imabird-deathwing"] = true,
+	["eu-Lenyelem-the-maelstrom"] = true,
+	["eu-Leonz-dragonblight"] = true,
+	["eu-Coôkiedough-stormreaver"] = true,
+	["eu-Päträtzel-the-maelstrom"] = true,
+	["eu-Alwé-thrall"] = true,
+	["eu-Robba-deathwing"] = true,
+	["eu-Top-lightnings-blade"] = true,
+	["eu-Eisha-the-maelstrom"] = true,
+	["eu-Trowl-karazhan"] = true,
+	["eu-Necrosius-dragonblight"] = true,
+	["eu-Slorina-ghostlands"] = true,
 }
 RaiderIO_CachedRuns = nil

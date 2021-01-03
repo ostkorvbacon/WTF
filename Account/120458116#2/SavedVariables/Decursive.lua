@@ -1,8 +1,10 @@
 
 DecursiveDB = {
 	["profileKeys"] = {
-		["Blightwyrm - The Maelstrom"] = "Default",
 		["Blóodraven - The Maelstrom"] = "Default",
+		["Harding - The Maelstrom"] = "Default",
+		["Blightwyrm - The Maelstrom"] = "Default",
+		["Bloodynine - The Maelstrom"] = "Default",
 	},
 	["class"] = {
 		["MAGE"] = {
@@ -14,6 +16,28 @@ DecursiveDB = {
 				[8] = -15,
 				[16] = -16,
 				[32] = 3,
+			},
+		},
+		["HUNTER"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+		["DEATHKNIGHT"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
 			},
 		},
 		["PRIEST"] = {
@@ -29,7 +53,7 @@ DecursiveDB = {
 		},
 	},
 	["global"] = {
-		["LastVersionAnnounce"] = 1608725776,
+		["LastVersionAnnounce"] = 1609374173,
 	},
 	["profiles"] = {
 		["Default"] = {
